@@ -80,7 +80,7 @@ class Scraper
       end 
       
     end 
-    #binding.pry
+    binding.pry
     @profileHash
     
   end
